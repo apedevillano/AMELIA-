@@ -2,10 +2,10 @@
 
 ---
 
-### Category Name 1 
+### Creative works  
 
-[Project 1 Title](/sample_page)
-<img src="images/dummy_thumbnail.jpg?raw=true"/>
+[Project 1 Galaxy Steven(/sample_page)
+<img src="images/stevengalaxycat.JPEG?raw=true"/>
 
 ---
 [Project 2 Title](/pdf/sample_presentation.pdf)
